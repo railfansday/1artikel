@@ -1,0 +1,10 @@
+feedparser
+requests
+beautifulsoup4
+lxml
+python-dateutil
+bleach
+pip 
+install requests 
+google-auth 
+google-auth-httplib2 
